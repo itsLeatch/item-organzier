@@ -23,3 +23,6 @@ I had a corner of my shelf that turned into chaos — a random pile of small par
 <img width="956" height="401" alt="image" src="https://github.com/user-attachments/assets/ff27c357-c73c-4b0d-883f-1a3eccb242a6" />
 ## App
 <img width="1344" height="2992" alt="show functionality" src="https://github.com/user-attachments/assets/b8d091a2-c4de-4e22-8dc8-b92f5367a024" />
+
+#Page
+<img width="540" height="828" alt="zig page" src="https://github.com/user-attachments/assets/ea2de4d3-b83c-40c9-a921-6b8e8d68f779" />
