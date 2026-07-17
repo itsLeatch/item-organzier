@@ -1,0 +1,3 @@
+[submodule "firmware/item_scanner"]
+	path = firmware/item_scanner
+	url = https://github.com/itsLeatch/item_scanner.git
