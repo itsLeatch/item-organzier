@@ -28,4 +28,4 @@ I had a corner of my shelf that turned into chaos — a random pile of small par
 
 # Page
 
-<img width="540" height="828" alt="zig page" src="https://github.com/user-attachments/assets/ea2de4d3-b83c-40c9-a921-6b8e8d68f779" />
+<img width="540" height="828" alt="zig page" src="https://github.com/user-attachments/assets/16fe3b89-13ac-44f0-adf7-99db7d3787ab" />
