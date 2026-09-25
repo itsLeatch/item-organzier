@@ -1,20 +1,8 @@
 # item-organizer
 
-A smart storage system that remembers where you put your small parts — so you don't have to.
-
-## What makes it unique
-
-Instead of manually labeling bins or trying to remember where you stashed that one screw, cable, or spare part, item-organizer lets a "grabber" mechanism physically point you to the right storage bin. No searching, no guessing — just scan and go.
-
-## How to use it
-
-1. **Add an item**: Open the app and scan your item.
-2. **Store it**: Place the item in any available storage bin. The app links the item to that bin's location.
-3. **Find it later**: When you need the item again, search for it in the app. The grabber mechanism automatically moves to and indicates the correct bin — no more digging through a messy shelf.
-
-## Why I made it
-
-I had a corner of my shelf that turned into chaos — a random pile of small parts, cables, and leftover pieces I *knew* would be useful someday, but could never find when I actually needed them. Instead of just tidying up once (and inevitably messing it up again), I wanted a system that would remember the location for me. This project was my way of solving that annoyance permanently: scan once, store anywhere, and let the system handle the finding.
+You have problems to find a good place to store small objects that might be useful in the future? Me too! That's why I was building item-organizer.\
+Just scan your screws, cables ... with the mobile app and the grabber will handle all of the other stuff. It handles you an available bin over and remembers its position.\
+You want to find it later on? Just open up the app again, use the search function and receive the item bin by the grabber!
 
 # Pictures
 ## Grabber
@@ -25,6 +13,11 @@ I had a corner of my shelf that turned into chaos — a random pile of small par
 ## App
 
 <img width="1344" height="2992" alt="show functionality" src="https://github.com/user-attachments/assets/b8d091a2-c4de-4e22-8dc8-b92f5367a024" />
+
+## PCB
+
+<img width="1904" height="1064" alt="controllboard front" src="https://github.com/user-attachments/assets/4bc6f09c-b972-4bc9-bcf2-e2953341b065" />
+
 
 # Page
 
