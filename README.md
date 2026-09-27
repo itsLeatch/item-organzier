@@ -17,7 +17,10 @@ You want to find it later on? Just open up the app again, use the search functio
 ## PCB
 
 <img width="1904" height="1064" alt="controllboard front" src="https://github.com/user-attachments/assets/4bc6f09c-b972-4bc9-bcf2-e2953341b065" />
+<img width="610" height="476" alt="image" src="https://github.com/user-attachments/assets/ed53ab0f-c14f-4fd3-aaff-f4002e995783" />
 
+### Power
+To power the PCB you will need 24V for the motors. In addition you have to power the esp32 through out the usb-c port to make the logic work :-)
 
 # Page
 
