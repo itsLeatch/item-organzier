@@ -21,4 +21,4 @@ You want to find it later on? Just open up the app again, use the search functio
 
 # Page
 
-<img width="540" height="828" alt="zig page" src="https://github.com/user-attachments/assets/16fe3b89-13ac-44f0-adf7-99db7d3787ab" />
+<img width="1081" height="1657" alt="new zine page" src="https://github.com/user-attachments/assets/b2715390-e230-4410-aaf1-e81b7d76e8d6" />
